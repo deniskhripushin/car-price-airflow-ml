@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+data/models/*.pkl
+data/predictions/*.csv
+logs/
+.DS_Store
+.idea/
